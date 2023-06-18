@@ -41,7 +41,7 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vacaramin)
-- Twitter: [@YourTwitterHandle](https://twitter.com/vacaramin)
+- [Linkedin](https://www.linkedin.com/in/vacaramin)
+- [Twitter](https://twitter.com/vacaramin)
 
 Thank you for visiting my profile. Let's create something awesome together! 🚀
