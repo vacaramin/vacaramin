@@ -41,7 +41,7 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
-- [WhatsApp]([https://www.linkedin.com/in/vacaramin](https://wa.link/5x48ip))
+- [WhatsApp](https://wa.link/5x48ip)
 - [Linkedin](https://www.linkedin.com/in/vacaramin)
 - [Twitter](https://twitter.com/vacaramin)
 
