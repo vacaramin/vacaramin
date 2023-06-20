@@ -25,8 +25,7 @@ I have gained valuable experience working on various projects, and here are a fe
 
 ### Freelance Work & Full-Time Job 💻
 
-In addition to my full-time job, I also work as a freelancer on platforms like Fiverr. I take up exciting projects and deliver high-quality solutions, including bot development for Discord and Slack.
-Link to my [Fiverr Profile](https://www.linkedin.com/in/vacaramin)
+In addition to my full-time job, I also work as a freelancer on platforms like Fiverr and Upwork. I take up exciting projects and deliver high-quality solutions.
 
 ### Goals 🌱
 
