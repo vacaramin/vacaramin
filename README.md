@@ -23,9 +23,6 @@ I have gained valuable experience working on various projects, and here are a fe
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
 
-### Freelance Work & Full-Time Job 💻
-
-In addition to my full-time job, I also work as a freelancer on platforms like Fiverr and Upwork. I take up exciting projects and deliver high-quality solutions.
 
 ### Goals 🌱
 
