@@ -2,13 +2,13 @@
 
 <h1 align="center">Hello 👋, I'm Waqar Amin</h1>
 
-### Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
+## Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
 
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
 
-### Technologies & Tools 🛠️
+## Technologies & Tools 🛠️
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -210,14 +210,16 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 </p>
 
 
+
+
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
 - **Backend:** Golang, Gin Framework, Node.js, Websockets, GraphQL
 - **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-- **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma 
+- **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
 
 
-### Professional Experience 💼
+## Professional Experience 💼
 
 I have gained valuable experience working on various projects, and here are a few highlights:
 
@@ -229,7 +231,7 @@ I have gained valuable experience working on various projects, and here are a fe
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
 
 
-### Goals 🌱
+## Goals 🌱
 
 My journey as a developer is constantly evolving, and here are some of my goals:
 
@@ -238,7 +240,7 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 - Sharpen my skills in designing and building scalable architectures for web applications, especially utilizing the power of websockets.
 - Collaborate with other passionate developers to create impactful and meaningful projects.
 
-### Let's Connect 🤝
+## Let's Connect 🤝
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
