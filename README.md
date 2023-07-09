@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
+[![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
 
 <h1 align="center">Hi 👋, I'm Waqar Amin</h1>
 <h3 align="center"> Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer</h3>
@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&" alt="vacaramin" />
+[![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&)](https://vacaramin.me)
 
 ### Technologies & Tools 🛠️
 
