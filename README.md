@@ -4,9 +4,7 @@
 
 ## Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
 
-
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
-
 
 ## Technologies & Tools 🛠️
 
@@ -209,15 +207,11 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>
 
-
-
-
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
 - **Backend:** Golang, Gin Framework, Node.js, Websockets, GraphQL
 - **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
-
 
 ## Professional Experience 💼
 
@@ -229,7 +223,6 @@ I have gained valuable experience working on various projects, and here are a fe
 - Implemented efficient algorithms and data structures to optimize performance and enhance user experiences.
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
-
 
 ## Goals 🌱
 
@@ -251,12 +244,10 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 <a href="https://fb.com/vacaramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vacaramin" height="30" width="40" /></a>
 </p>
 
-
-
 Thank you for visiting my profile. Let's create something awesome together! 🚀
-<div>
+
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
-    <p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
-</div>
 
 [![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&)](https://vacaramin.me)
+
+  <p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
