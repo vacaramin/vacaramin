@@ -48,13 +48,10 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 <a href="https://linkedin.com/in/vacaramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vacaramin" height="30" width="40" /></a>
 <a href="https://fb.com/vacaramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vacaramin" height="30" width="40" /></a>
 </p>
-<a href="https://twitter.com/vacaramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vacaramin" height="30" width="40" /></a>
 
 
 
 Thank you for visiting my profile. Let's create something awesome together! 🚀
 - <p align="left"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&" alt="vacaramin" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
