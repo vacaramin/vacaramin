@@ -226,40 +226,40 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
 <p align="left">
-  <a href="https://wa.link/5x48ip" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="vacaramin"
-      height="60"
-      width="80"
-  /></a>
-  <a href="https://twitter.com/vacaramin" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="vacaramin"
-      height="60"
-      width="80"
-  /></a>
-  <a href="https://linkedin.com/in/vacaramin" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="vacaramin"
-      height="60"
-      width="80"
-  /></a>
-  <a href="https://fb.com/vacaramin" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="vacaramin"
-      height="60"
-      width="80"
-  /></a>
-</p>
-
+    <a href="https://wa.link/5x48ip" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+        alt="vacaramin"
+        height="45"
+        width="60"
+    /></a>
+    <a href="https://twitter.com/vacaramin" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        alt="vacaramin"
+        height="45"
+        width="60"
+    /></a>
+    <a href="https://linkedin.com/in/vacaramin" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="vacaramin"
+        height="45"
+        width="60"
+    /></a>
+    <a href="https://fb.com/vacaramin" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+        alt="vacaramin"
+        height="45"
+        width="60"
+    /></a>
+  </p>
+  
 
 Thank you for visiting my profile. Let's create something awesome together! 🚀
 
