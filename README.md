@@ -1,7 +1,8 @@
 [![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
 
-<h1 align="center">Hi 👋, I'm Waqar Amin</h1>
-<h3 align="center"> Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer</h3>
+<h1 align="center">Hello 👋, I'm Waqar Amin</h1>
+
+### Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
 
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
@@ -54,6 +55,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 
 
 Thank you for visiting my profile. Let's create something awesome together! 🚀
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
-- <p align="left"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
+<div>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
+    <p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
+</div>
