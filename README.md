@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&" alt="vacaramin" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&" alt="vacaramin" />
 
 ### Technologies & Tools 🛠️
 
