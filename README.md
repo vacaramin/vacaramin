@@ -267,4 +267,4 @@ Thank you for visiting my profile. Let's create something awesome together!! ðŸš
 
 [![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&)](https://vacaramin.me)
 
-  <p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
+<p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
