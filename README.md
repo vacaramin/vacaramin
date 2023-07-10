@@ -243,7 +243,8 @@ I have gained valuable experience working on various projects, and here are a fe
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
 
-## <p align="left"><a href="https://vacaramin.me" target="_blank" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="20" /> </a></p>ls 🌱
+## <div style="display: flex;"> <p align="left"> <a href="https://vacaramin.me" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="20" /></a></p><p>ls 🌱</p></div>
+
 
 
 My journey as a developer is constantly evolving, and here are some of my goals:
