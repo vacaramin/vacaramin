@@ -219,8 +219,12 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     />
   </a>
   <a href="https://www.lumaseeds.com" target="_blank">
-    <div style="width: 80px; height: 80px; background-image: url('https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png'); background-position: center center; background-size: 406px 406px;"></div>
-  </a>
+  <img
+    src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
+    alt="Luma Seeds"
+    style="width: 80px; height: 80px; object-fit: none; object-position: center center; clip-path: inset(163px);"
+  />
+</a>
 
   <a href="https://proailab.com" target="_blank" >
     <img
