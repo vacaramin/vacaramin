@@ -202,7 +202,30 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 - **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
 
 ## Professional Experience 💼
+<p align="left">
+  <a href="https://techscape.pk" target="_blank" >
+    <img
+      src="https://techscape.pk/wp-content/uploads/2022/07/cropped-cropped-Logo-web-1-1-300x101-Copy.png"
+      alt="Techscape"
+      height="80"
+    />
+  </a>
+    <a href="https://www.lumaseeds.com" target="_blank" >
+    <img
+      src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
+      alt="Luma Seeds"
+      height="80"
+    />
+  </a>
 
+  <a href="https://proailab.com" target="_blank" >
+    <img
+      src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
+      alt="Luma Seeds"
+      height="80"
+    />
+  </a>
+  </p>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
 - Developed robust and scalable backend systems using Golang and the Gin Framework, leveraging the power of websockets.
