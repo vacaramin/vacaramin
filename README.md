@@ -205,7 +205,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 <p align="left">
   <a href="https://techscape.pk" target="_blank" >
     <img
-      src="https://techscape.pk/wp-content/uploads/2022/07/cropped-cropped-Logo-web-1-1-300x101-Copy.png"
+      src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png"
       alt="Techscape"
       height="80"
     />
