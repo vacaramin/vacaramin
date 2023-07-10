@@ -196,7 +196,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 </p>
 
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
-- **Backend:** Golang, Gin Framework, Node.js, Websockets, GraphQL
+- **Backend:** Golang, Gin Framework, Node.js, Express, Websockets, GraphQL
 - **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
