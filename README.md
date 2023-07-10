@@ -223,6 +223,8 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
       alt="Luma Seeds"
       height="80"
+      width= "80"
+      object-fit: none;
     />
   </a>
 
