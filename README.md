@@ -247,11 +247,10 @@ I have gained valuable experience working on various projects, and here are a fe
 <p align="left">
   <a href="https://vacaramin.me" target="_blank" >
     <img
-      src="https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png"
-      alt="Golang developer"
-      width="40%"
-      align="center"
-      />
+      src="https://www.forbes.com/advisor/wp-content/uploads/2022/10/Image-7-2.jpg"
+      alt="Go lang developer"
+      height="50"
+    />
   </a>
 </p>
 
