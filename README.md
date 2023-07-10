@@ -247,11 +247,12 @@ I have gained valuable experience working on various projects, and here are a fe
 <p align="left">
   <a href="https://vacaramin.me" target="_blank" >
     <img
-      src="https://www.forbes.com/advisor/wp-content/uploads/2022/10/Image-7-2.jpg"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png"
       alt="Go lang developer"
       height="50"
     />
   </a>
+  LS
 </p>
 
 My journey as a developer is constantly evolving, and here are some of my goals:
