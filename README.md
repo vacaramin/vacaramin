@@ -243,7 +243,7 @@ I have gained valuable experience working on various projects, and here are a fe
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
 
-## <div style="display: flex;"> <span align="left"> <a href="https://vacaramin.me" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="18" /></a></span><span>ALS 🌱</span></div>
+## <div style="display: flex;"> <span align="left"> <a href="https://vacaramin.me" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="19" /></a></span><span>ALS 🌱</span></div>
 
 
 
@@ -294,7 +294,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
   </p>
   
 
-  
+
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
