@@ -251,8 +251,7 @@ I have gained valuable experience working on various projects, and here are a fe
       alt="Golang developer"
       width="40%"
       align="center"
-      
-    />
+      />
   </a>
 </p>
 
