@@ -245,18 +245,11 @@ I have gained valuable experience working on various projects, and here are a fe
 
 ## Goals 🌱
 <p align="left">
-  <a href="https://golang.com" target="_blank" >
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png"
-      alt="Golang"
-      height="80"
-    />
-  </a>
   <a href="https://vacaramin.me" target="_blank" >
     <img
-      src="https://www.forbes.com/advisor/wp-content/uploads/2022/10/Image-7-2.jpg"
-      alt="Go lang developer"
-      height="80"
+      src="https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png"
+      alt="Golang developer"
+      height="80px"
     />
   </a>
 </p>
