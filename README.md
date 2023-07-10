@@ -249,7 +249,9 @@ I have gained valuable experience working on various projects, and here are a fe
     <img
       src="https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png"
       alt="Golang developer"
-      height="80px"
+      width="40%"
+      align="center"
+      
     />
   </a>
 </p>
