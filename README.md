@@ -16,11 +16,53 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
+  <a href="https://gin-gonic.com/">
+    <img
+      src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
+      alt="go"
+      height="80"
+    />
+  </a>
+  <a
+    href="https://gorm.io/index.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://gorm.io/gorm.svg"
+      alt="gorm"
+      width="80"
+      height="80"
+    />
+  </a>
+ <a
+    href="https://github.com/grpc/grpc-go"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4"
+      alt="grpc"
+      width="80"
+      height="80"
+    />
+  </a>
+ <a
+    href="https://github.com/grpc/grpc-go"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGTj6IS3yV21x_xamyILfGsw=/websocket-2023-01-04%2000-00-00-2023-11-30%2009-25-41"
+      alt="grpc"
+      width="80"
+      height="80"
+    />
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
       alt="postgresql"
-      width="80"
       height="80"
     />
   </a>
