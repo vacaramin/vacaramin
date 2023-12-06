@@ -43,19 +43,29 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     <img
       src="https://avatars.githubusercontent.com/u/7802525?s=200&v=4"
       alt="grpc"
-      width="80"
       height="80"
     />
   </a>
  <a
-    href="https://github.com/grpc/grpc-go"
+    href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API"
     target="_blank"
     rel="noreferrer"
   >
     <img
       src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGTj6IS3yV21x_xamyILfGsw=/websocket-2023-01-04%2000-00-00-2023-11-30%2009-25-41"
-      alt="grpc"
+      alt="Web Sockets"
       width="80"
+      height="80"
+    />
+  </a>
+<a
+    href="https://webrtc.org/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://blog.wildix.com/wp-content/uploads/2016/11/webrtc-logo-vert-retro-255x305-1.png"
+      alt="WebRTC"
       height="80"
     />
   </a>
@@ -246,10 +256,11 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 </p>
 
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
-- **Backend:** Golang, Gin Framework, Node.js, Express, Websockets, GraphQL
-- **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap
+- **Tools:** gRPC, RestAPI, Websockets, GraphQL, Docker, Q8S, WebRTC
+- **Backend:** Golang, Gin Framework, Node.js, Express
+- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
-- **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
+- **Other Skills:** Git, Agile Methodologies, Figma, Linux
 
 ## Professional Experience 💼
 <p align="left">
