@@ -361,6 +361,21 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
+  <a href="https://discord.com/users/749376006946553987" target="blank"
+      ><img
+        align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg"
+        alt="vacaramin"
+        height="55"
+        /></a>
+  <a href="https://www.upwork.com/freelancers/waqaramin10" target="blank"
+      ><img
+        align="center"
+        src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
+        alt="vacaramin"
+        height="45"
+        width="60"
+        /></a>
   </p>
   
 
