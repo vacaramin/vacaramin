@@ -329,7 +329,7 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
 <p align="left">
-    <a href="https://wa.link/5x48ip" target="blank"
+    <a href="https://wa.link/5x48ip" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
@@ -337,7 +337,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
-    <a href="https://twitter.com/vacaramin" target="blank"
+    <a href="https://twitter.com/vacaramin" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
@@ -345,7 +345,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
-    <a href="https://linkedin.com/in/vacaramin" target="blank"
+    <a href="https://linkedin.com/in/vacaramin" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -353,7 +353,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
-    <a href="https://fb.com/vacaramin" target="blank"
+    <a href="https://fb.com/vacaramin" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -361,14 +361,14 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
-  <a href="https://discord.com/users/749376006946553987" target="blank"
+  <a href="https://discord.com/users/749376006946553987" target="_blank"
       ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg"
         alt="vacaramin"
         height="55"
         /></a>
-  <a href="https://www.upwork.com/freelancers/waqaramin10" target="blank"
+  <a href="https://www.upwork.com/freelancers/waqaramin10" target="_blank"
       ><img
         align="center"
         src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
