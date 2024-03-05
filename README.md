@@ -340,15 +340,6 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
-    <a href="https://twitter.com/vacaramin" target="_blank"
-      ><img
-        title = "@vacaramin"
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-        alt="vacaramin"
-        height="45"
-        width="60"
-    /></a>
     <a href="https://linkedin.com/in/vacaramin" target="_blank"
       ><img
         title = "@vacaramin"
@@ -358,6 +349,23 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
         width="60"
     /></a>
+  <a href="https://www.upwork.com/freelancers/waqaramin10" target="_blank"
+      ><img
+        title = "@waqaramin10"
+        align="center"
+        src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
+        alt="vacaramin"
+        height="45"
+        width="60"
+        /></a>
+   <a href="https://fiverr.com/vacaramin86" target="_blank"
+      ><img
+        title = "@vacaramin86"
+        align="center"
+        src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png"
+        alt="vacaramin"
+        height="45"
+        /></a>
     <a href="https://fb.com/vacaramin" target="_blank"
       ><img
         title = "@vacaramin"
@@ -375,17 +383,10 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         alt="vacaramin"
         height="55"
         /></a>
-  <a href="https://www.upwork.com/freelancers/waqaramin10" target="_blank"
-      ><img
-        title = "@waqaramin10"
-        align="center"
-        src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
-        alt="vacaramin"
-        height="45"
-        width="60"
-        /></a>
+  
   </p>
-
+</p>
+  
 
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
