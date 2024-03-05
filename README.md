@@ -328,7 +328,7 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
-<strong>Hover on the icons to see the username for each communication channel </strong>
+<i>Broken link?</i>  <strong>Hover on the icons to see the username for each communication channel </strong>
 
 <p align="left">
     <a href="https://wa.link/5x48ip" target="_blank"
