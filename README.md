@@ -328,9 +328,12 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
+<strong>Hover on the icons to see the username for each communication channel </strong>
+
 <p align="left">
     <a href="https://wa.link/5x48ip" target="_blank"
       ><img
+        title = "+92 3155567110"
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
         alt="vacaramin"
@@ -339,6 +342,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
     /></a>
     <a href="https://twitter.com/vacaramin" target="_blank"
       ><img
+        title = "@vacaramin"
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
         alt="vacaramin"
@@ -347,6 +351,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
     /></a>
     <a href="https://linkedin.com/in/vacaramin" target="_blank"
       ><img
+        title = "@vacaramin"
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="vacaramin"
@@ -355,14 +360,16 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
     /></a>
     <a href="https://fb.com/vacaramin" target="_blank"
       ><img
+        title = "@vacaramin"
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
         alt="vacaramin"
         height="45"
         width="60"
     /></a>
-  <a href="https://discord.com/users/749376006946553987" target="_blank"
+  <a href="https://discord.com/users/749376006946553987" target="_blank" 
       ><img
+        title = "vacaramin#6835"
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/discord.svg"
         alt="vacaramin"
@@ -370,6 +377,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         /></a>
   <a href="https://www.upwork.com/freelancers/waqaramin10" target="_blank"
       ><img
+        title = "@waqaramin10"
         align="center"
         src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg"
         alt="vacaramin"
@@ -377,7 +385,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         width="60"
         /></a>
   </p>
-  
+
 
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
