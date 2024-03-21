@@ -386,8 +386,17 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
   
   </p>
 </p>
-  
-
+<h3 align="center">Schedule a meeting?</h3>   
+<p align="center">
+  <a href="https://calendly.com/vacaramin/30min" target="_blank" align="center">
+      <img
+        title = "30 Min Meeting Schedule with me"
+        align="center"
+        src="https://www.insiteful.com.au/wp-content/uploads/2022/12/calendly-logo.webp"
+        alt="vacaramin"
+        height="45"
+    /></a>
+  </p>  
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
