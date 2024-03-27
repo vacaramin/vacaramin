@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello 👋, I'm Waqar Amin</h1>
 
-## Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
+## Golang Backend Developer | DevOps and Full Stack Enthusiast | Cutting-Edge Technology Explorer
 
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
