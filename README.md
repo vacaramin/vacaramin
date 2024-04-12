@@ -383,9 +383,15 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         alt="vacaramin"
         height="55"
         /></a>
+
+  ![My Discord](https://discord-readme-badge.vercel.app/api?id=749376006946553987 "Discord Preview")
+
   
   </p>
 </p>
+
+
+
 <h3 align="center">Schedule a meeting?</h3>   
 <p align="center">
   <a href="https://calendly.com/vacaramin/30min" target="_blank" align="center">
@@ -407,3 +413,5 @@ Thank you for visiting my profile. Let's create something awesome together!! ðŸš
   [![github contrib picture](https://github-readme-stats.vercel.app/api?username=vacaramin&hide=contribs,prs)](https://vacaramin.me) 
   
 <p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
+
+
