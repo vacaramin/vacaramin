@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png"
       alt="docker"
       height="80"
       title="docker"
