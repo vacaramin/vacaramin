@@ -7,6 +7,91 @@
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
 ## Technologies & Tools 🛠️
+
+  #### Backend 
+
+<p align="left">
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+      alt="go"
+      height="80"
+      title="golang"
+    />
+  </a>
+    <a href="https://gin-gonic.com/">
+    <img
+      src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
+      alt="gin gonic"
+      height="80"
+      title="gin-gonic"
+    />
+  </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      height="80"
+    />
+  </a>
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      height="80"
+    />
+  </a>
+ <a
+    href="https://gorm.io/index.html"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://gorm.io/gorm.svg"
+      alt="gorm"
+      height="80"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      height="80"
+    />
+  </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      height="80"
+    />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql"
+      height="80"
+    />
+  </a>
+
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
+      alt="oracle"
+      height="80"
+    />
+  </a>
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
+      height="80"
+    />
+  </a>
+</p>
+  
+#### DevOps
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
@@ -14,14 +99,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       alt="docker"
       height="80"
       title="docker"
-    />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      height="80"
-      title="golang"
     />
   </a>
   
@@ -33,12 +110,26 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       title="kubernetes"
     />
   </a>
-  <a href="https://gin-gonic.com/">
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"
-      alt="gin gonic"
+      src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png"
+      alt="Aws"
       height="80"
-      title="gin-gonic"
+    />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img
+      src="https://swimburger.net/media/ppnn3pcl/azure.png"
+      alt="kubernetes"
+      height="80"
+      title="kubernetes"
+    />
+  </a>  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      height="80"
     />
   </a>
   <a href="https://github.com/features/actions">
@@ -49,17 +140,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       title="gin-gonic"
     />
   </a>
-  <a
-    href="https://gorm.io/index.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://gorm.io/gorm.svg"
-      alt="gorm"
-      height="80"
-    />
-  </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -67,7 +147,22 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
- <a
+</p>
+  
+  #### Protocols
+  
+<p align= "left">
+  <a
+    href="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg"
+      alt="grpc"
+      height="80"
+    />
+  </a><a
     href="https://github.com/grpc/grpc-go"
     target="_blank"
     rel="noreferrer"
@@ -100,47 +195,12 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      height="80"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      height="80"
-    />
-  </a>
-  
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png"
-      alt="Aws"
-      height="80"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      height="80"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      height="80"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+</p>  
+
+#### Frontend
+<p align="left">
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react"
@@ -155,22 +215,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
       title="redux"
     />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      height="80"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
       alt="html5"
@@ -184,63 +229,21 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
       height="80"
     />
   </a>
-
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      height="80"
-    />
-  </a>
-
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
       alt="figma"
-      height="80"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      height="80"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      height="80"
-    />
-  </a>
-
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
       height="80"
     />
   </a>
@@ -249,13 +252,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
-      height="80"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
       height="80"
     />
   </a>
