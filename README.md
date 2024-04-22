@@ -8,7 +8,67 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 
 ## Technologies & Tools 🛠️
 
-  #### Backend 
+#### Frontend
+<p align="left">
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      height="80"
+    />
+  </a>
+  
+  <a href="https://github.com/redux/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+      alt="redux"
+      height="80"
+      title="redux"
+    />
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      height="80"
+    />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      height="80"
+    />
+  </a>
+    <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      height="80"
+    />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+      alt="figma"
+      height="80"
+    />
+  </a>
+
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
+      height="80"
+    />
+  </a>
+</p>
+
+#### Backend 
 
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -52,6 +112,19 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
+    </a>
+      <a href="https://graphql.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+      alt="graphql"
+      height="80"
+    />
+  </a>
+</p>
+
+#### Database
+
+<p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
@@ -81,14 +154,7 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       alt="oracle"
       height="80"
     />
-  </a>
-      <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      height="80"
-    />
-  </a>
+
 </p>
   
 #### DevOps
@@ -197,65 +263,6 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>  
 
-#### Frontend
-<p align="left">
-
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      height="80"
-    />
-  </a>
-  
-  <a href="https://github.com/redux/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
-      alt="redux"
-      height="80"
-      title="redux"
-    />
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      height="80"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      height="80"
-    />
-  </a>
-    <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      height="80"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      height="80"
-    />
-  </a>
-
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      height="80"
-    />
-  </a>
-</p>
 
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
 - **DevOps:** Docker, Docker-compose, Kubernetes, Github Actions, AWS, Linux, Git
