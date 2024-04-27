@@ -7,8 +7,13 @@
 Welcome to my GitHub profile! I'm a passionate full stack developer with a keen interest in Golang and the Gin framework. I'm constantly exploring cutting-edge technologies to create efficient solutions and deliver high-quality code.
 
 ## Technologies & Tools 🛠️
+<details>
+    <summary>
 
 #### Frontend
+
+</summary>
+
 <p align="left">
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -67,8 +72,12 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     />
   </a>
 </p>
-
+</details>
+<details open>
+    <summary>
+        
 #### Backend 
+</summary>
 
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -122,7 +131,12 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>
 
+</details>
+<details>
+    <summary>
+        
 #### Database
+</summary>
 
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -156,8 +170,14 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     />
 
 </p>
-  
+</details>
+
+<details open>
+    <summary>
+        
 #### DevOps
+</summary>
+
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
@@ -214,8 +234,14 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
     />
   </a>
 </p>
+</details>
+
+<details>
+    <summary>
+        
+#### Protocols
+</summary>
   
-  #### Protocols
   
 <p align= "left">
   <a
@@ -261,7 +287,8 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
       height="80"
     />
   </a>
-</p>  
+</p>
+</details>
 
 
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
@@ -272,7 +299,11 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** Git, Agile Methodologies, Figma
 
+<details>
+    <summary>
+        
 ## Professional Experience 💼
+</summary>
 <p align="left">
   <a href="https://techscape.pk" target="_blank" >
     <img
@@ -322,7 +353,13 @@ I have gained valuable experience working on various projects, and here are a fe
 - Implementation of efficient algorithms and data structures in optimizations for performance and better user experiences.
 - Building interactive bots for Discord and Slack
 
+</details>
+<details>
+    <summary>
+
 ## <span style="display: flex;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="17.9" /></span>ALS 🌱
+</summary>
+
 
 
 
@@ -333,8 +370,13 @@ My journey as a developer is constantly evolving, and here are some of my goals:
 - Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
 - Sharpening skills in design and crafting architectures that is scalable for web applications.
 - Collaborate with other developers in creating impactful and meaningful projects.
+</details>
+
+<details>
+    <summary>
 
 ## Let's Connect 🤝
+</summary>
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me through the following channels:
 
@@ -413,6 +455,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="45"
     /></a>
   </p>  
+</details>
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
