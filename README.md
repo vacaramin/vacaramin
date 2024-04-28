@@ -73,13 +73,13 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
   </a>
 </p>
 </details>
-<details open>
-    <summary>
+<details open align="right">
+    <summary alifn>
         
 #### Backend 
 </summary>
 
-<p align="left">
+<p align="right">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -172,13 +172,13 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 </p>
 </details>
 
-<details open>
+<details open align="right">
     <summary>
         
 #### DevOps
 </summary>
 
-<p align="left">
+<p align="right">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Docker_%28container_engine%29_logo_%28cropped%29.png"
