@@ -312,13 +312,6 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
     />
   </a>
 
-  <a href="https://fiverr.com/vacaramin86" target="_blank" >
-    <img
-      src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png"
-      alt="Fiverr"
-      height="80"
-    />
-  </a>
   <a href="https://www.lumaseeds.com" target="_blank">
     <img
       src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
