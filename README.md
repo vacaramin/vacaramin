@@ -415,8 +415,6 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
         height="55"
         /></a>
 
-  ![My Discord](https://discord-readme-badge.vercel.app/api?id=749376006946553987 "Discord Preview")
-
   
   </p>
 </p>
