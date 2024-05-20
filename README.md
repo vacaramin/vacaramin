@@ -8,8 +8,8 @@
 Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps engineer who finds himself designing and redesigning frontends, fixing, and scaling messy backends—because [I'm tyrone! ](https://youtu.be/9nSykFaU9rI), and I can't stand bad software! 
 
 ## Technologies & Tools 🛠️
-<details>
-    <summary><b>Frontend<b></summary>
+<details open>
+    <summary><b>Frontend</b></summary>
 
 <p align="left">
 
@@ -71,7 +71,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 </p>
 </details>
 <details open align="right">
-<summary><b>Backend<b></summary>
+<summary><b>Backend</b></summary>
 
 <p align="right">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -126,9 +126,9 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 </p>
 
 </details>
-<details>
+<details open>
    
-<summary><b>Database<b></summary>
+<summary><b>Database</b></summary>
 
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -166,7 +166,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 
 <details open align="right">
 
-<summary><b>DevOps<b></summary>
+<summary><b>DevOps</b></summary>
 
 <p align="right">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -226,9 +226,9 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 </p>
 </details>
 
-<details>
+<details open>
 
-<summary><b>Protocols<b></summary>
+<summary><b>Protocols</b></summary>
   
   
 <p align= "left">
