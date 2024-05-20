@@ -9,11 +9,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 
 ## Technologies & Tools 🛠️
 <details>
-    <summary>
-
-#### Frontend
-
-</summary>
+    <summary><b>Frontend<b></summary>
 
 <p align="left">
 
@@ -75,10 +71,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 </p>
 </details>
 <details open align="right">
-    <summary alifn>
-        
-#### Backend 
-</summary>
+<summary><b>Backend<b></summary>
 
 <p align="right">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
@@ -134,10 +127,8 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 
 </details>
 <details>
-    <summary>
-        
-#### Database
-</summary>
+   
+<summary><b>Database<b></summary>
 
 <p align="left"> 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -174,10 +165,8 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 </details>
 
 <details open align="right">
-    <summary>
-        
-#### DevOps
-</summary>
+
+<summary><b>DevOps<b></summary>
 
 <p align="right">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -238,10 +227,8 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 </details>
 
 <details>
-    <summary>
-        
-#### Protocols
-</summary>
+
+<summary><b>Protocols<b></summary>
   
   
 <p align= "left">
