@@ -291,13 +291,6 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 ## Professional Experience 💼
 
 <p align="left">
-  <a href="https://techscape.pk" target="_blank" >
-    <img
-      src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png"
-      alt="Techscape"
-      height="80"
-    />
-  </a>
 
   <a href="https://www.lumaseeds.com" target="_blank">
     <img
