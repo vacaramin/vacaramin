@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
       alt="react"
       height="80"
     />
-  </a>
+</a>
   
   <a href="https://github.com/redux/" target="_blank" rel="noreferrer">
     <img
@@ -291,15 +291,13 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 ## Professional Experience 💼
 
 <p align="left">
-
-  <a href="https://www.lumaseeds.com" target="_blank">
+<a href="https://voninc.tech" target="_blank" >
     <img
-      src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
-      alt="Luma Seeds"
-      style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
+      src="https://avatars.githubusercontent.com/u/154637883?s=200&v=4"
+      alt="Voninc"
+      height="80"
     />
   </a>
-
 
   <a href="https://proailab.com" target="_blank" >
     <img
@@ -316,7 +314,7 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
       height="80"
     />
   </a>
-  </p>
+</p>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
 - Developed backend systems using Golang and Node.js.
