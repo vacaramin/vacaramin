@@ -5,7 +5,7 @@
 ## What Can I say, I just love software!
 
 
-Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps engineer who finds himself designing and redesigning frontends, fixing, and scaling messy backends—because [I'm tyrone! ](https://youtu.be/9nSykFaU9rI), and I can't stand bad software! 
+Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps engineer who finds himself designing and redesigning frontends, fixing, and scaling messy backends—because [I'm tyrone! ](), and I can't stand bad software! 
 
 ## Technologies & Tools 🛠️
 <details open>
