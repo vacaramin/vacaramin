@@ -297,11 +297,11 @@ Welcome to my GitHub profile! I'm a full-stack developer turned frontend enthusi
 </details>
 
 
-- **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
+- **Frontend:** Next.js, React.js, Redux, HTML, CSS, JavaScript, Bootstrap
+- **Languages:** Javascript, Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript
 - **DevOps:** Docker, Docker-compose, Kubernetes, Github Actions, AWS, Linux, Git
 - **Protocols:** gRPC, RestAPI, Websockets, GraphQL, WebRTC
 - **Backend:** Golang, Gin Framework, Node.js, Express
-- **Frontend:** React.js, Redux, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** Git, Agile Methodologies, Figma
 
