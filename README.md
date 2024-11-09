@@ -2,10 +2,10 @@
 
 <h1 align="center">Hello 👋, I'm Waqar Amin</h1>
 
-## What Can I say, I just love software!
+## Software deserves to be done right!
 
 
-Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps engineer who finds himself designing and redesigning frontends, fixing, and scaling messy backends—because [I'm tyrone! ](), and I can't stand bad software! 
+Welcome to my GitHub profile! I'm a full-stack developer turned frontend enthusiast and Shopify Liquid enthusiast. I’m all about building clean, scalable solutions.  
 
 ## Technologies & Tools 🛠️
 <details open>
@@ -13,6 +13,22 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 
 <p align="left">
 
+<a href="https://github.com/redux/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.freebiesupply.com/logos/large/2x/shopify-logo-png-transparent.png"
+      alt="redux"
+      height="80"
+      title="redux"
+    />
+</a>
+  
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.svgrepo.com/show/354113/nextjs-icon.svg"
+      alt="react"
+      height="80"
+    />
+</a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -74,6 +90,14 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 <summary><b>Backend</b></summary>
 
 <p align="right">
+    
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      height="80"
+    />
+  </a>
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -90,19 +114,13 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
       title="gin-gonic"
     />
   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      height="80"
-    />
-  </a>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      height="80"
-    />
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+        alt="python"
+        height="80"
+      />
   </a>
  <a
     href="https://gorm.io/index.html"
@@ -291,6 +309,28 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
 ## Professional Experience 💼
 
 <p align="left">
+    
+<a href="https://sesameagency.co" target="_blank" >
+    <img
+      src="https://avatars.githubusercontent.com/u/145470266?s=200&v=4"
+      alt="Voninc"
+      height="80"
+    />
+  </a>
+  <a href="https://proailab.com" target="_blank" >
+    <img
+      src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
+      alt="Luma Seeds"
+      height="80"
+    />
+  </a>
+  <a href="https://proailab.com" target="_blank" >
+    <img
+      src="https://avatars.githubusercontent.com/u/112457542?s=200&v=4"
+      alt="Kluff"
+      height="80"
+    />
+  </a>
 <a href="https://voninc.tech" target="_blank" >
     <img
       src="https://avatars.githubusercontent.com/u/154637883?s=200&v=4"
@@ -299,24 +339,11 @@ Welcome to my GitHub profile! I'm a full-stack developer and a wannabe DevOps en
     />
   </a>
 
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
-      alt="Luma Seeds"
-      height="80"
-    />
-  </a>
   
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://avatars.githubusercontent.com/u/112457542?s=200&v=4"
-      alt="Kluff"
-      height="80"
-    />
-  </a>
 </p>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
+- Developed frontend custom storefronts with next.js and shopify storefront API's.
 - Developed backend systems using Golang and Node.js.
 - Collaborations with cross-functional teams in build top-notch web applications.
 - Proficiency in coding with Golang, Jsx, Python, and TypeScript which has brought versatility in my development skills.
@@ -327,11 +354,11 @@ I have gained valuable experience working on various projects, and here are a fe
 
 My journey as a developer is constantly evolving, and here are some of my goals:
 
+- Collaborate with other developers in creating impactful and meaningful projects.
 - Mastering automations, and assisting in optimization of development flows.
 - Being a valuable member in Golang and its ecosystem, with contributing to open source projects with innovative solutions.
 - Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
 - Sharpening skills in design and crafting architectures that is scalable for web applications.
-- Collaborate with other developers in creating impactful and meaningful projects.
 
 ## Let's Connect 🤝
 
