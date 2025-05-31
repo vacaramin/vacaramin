@@ -367,15 +367,6 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 <i>Broken link?</i>  <strong>Hover on the icons to see the username for each communication channel </strong>
 
 <p align="left">
-    <a href="https://wa.link/5x48ip" target="_blank"
-      ><img
-        title = "+92 3155567110"
-        align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-        alt="vacaramin"
-        height="45"
-        width="60"
-    /></a>
     <a href="https://linkedin.com/in/vacaramin" target="_blank"
       ><img
         title = "@vacaramin"
