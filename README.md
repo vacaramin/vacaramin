@@ -309,7 +309,13 @@ Welcome to my GitHub profile! I'm a full-stack developer turned frontend enthusi
 ## Professional Experience 💼
 
 <p align="left">
-    
+  <a href="https://solutions.techscape.pk" target="_blank" >
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnmB5FEm1_dZ9Jn3DPdpP_p4uyx5zgWTGLeg&s"
+      alt="Voninc"
+      height="80"
+    />
+  </a>
 <a href="https://sesameagency.co" target="_blank" >
     <img
       src="https://avatars.githubusercontent.com/u/145470266?s=200&v=4"
@@ -320,21 +326,7 @@ Welcome to my GitHub profile! I'm a full-stack developer turned frontend enthusi
   <a href="https://proailab.com" target="_blank" >
     <img
       src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
-      alt="Luma Seeds"
-      height="80"
-    />
-  </a>
-  <a href="https://proailab.com" target="_blank" >
-    <img
-      src="https://avatars.githubusercontent.com/u/112457542?s=200&v=4"
-      alt="Kluff"
-      height="80"
-    />
-  </a>
-<a href="https://voninc.tech" target="_blank" >
-    <img
-      src="https://avatars.githubusercontent.com/u/154637883?s=200&v=4"
-      alt="Voninc"
+      alt="Pro ai lab logo"
       height="80"
     />
   </a>
@@ -349,16 +341,6 @@ I have gained valuable experience working on various projects, and here are a fe
 - Proficiency in coding with Golang, Jsx, Python, and TypeScript which has brought versatility in my development skills.
 - Implementation of efficient algorithms and data structures in optimizations for performance and better user experiences.
 - Building interactive bots for Discord and Slack
-
-## <span style="display: flex;"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="17.9" /></span>ALS 🌱
-
-My journey as a developer is constantly evolving, and here are some of my goals:
-
-- Collaborate with other developers in creating impactful and meaningful projects.
-- Mastering automations, and assisting in optimization of development flows.
-- Being a valuable member in Golang and its ecosystem, with contributing to open source projects with innovative solutions.
-- Stay updated with the latest trends and advancements in the tech industry, exploring new frameworks and libraries.
-- Sharpening skills in design and crafting architectures that is scalable for web applications.
 
 ## Let's Connect 🤝
 
