@@ -423,7 +423,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
       <img
         title = "30 Min Meeting Schedule with me"
         align="center"
-        src="https://www.insiteful.com.au/wp-content/uploads/2022/12/calendly-logo.webp"
+        src="https://marketing-assets.calendly.com/media/logo.svg"
         alt="vacaramin"
         height="45"
     /></a>
@@ -431,12 +431,5 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
-<p align="center">
-
-  [![streak picture](https://github-readme-streak-stats.herokuapp.com/?user=vacaramin&)](https://vacaramin.me) 
-  [![github contrib picture](https://github-readme-stats.vercel.app/api?username=vacaramin&hide=contribs,prs)](https://vacaramin.me) 
-  
-<p align="right"> <a href="https://twitter.com/vacaramin" target="blank"><img src="https://img.shields.io/twitter/follow/vacaramin?logo=twitter&style=for-the-badge" alt="vacaramin" /></a> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=vacaramin&label=Profile%20views&color=0e75b6&style=flat" alt="vacaramin" /> </p>
 
