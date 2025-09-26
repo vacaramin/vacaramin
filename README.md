@@ -5,7 +5,7 @@
 ## Software deserves to be done right!
 
 
-Welcome to my GitHub profile! I'm a full-stack developer turned frontend enthusiast and Shopify Liquid enthusiast. I’m all about building clean, scalable solutions.  
+Welcome to my GitHub profile! I'm a full-stack developer. I’m all about building clean, scalable code solutions that are easy to maintain.  
 
 ## Technologies & Tools 🛠️
 <details open>
